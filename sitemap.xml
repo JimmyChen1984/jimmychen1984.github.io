@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/AndroidFramework/index.html</loc>
+    
+    <lastmod>2016-09-19T02:51:38.450Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/09/19/AndroidWatchdog/</loc>
+    
+    <lastmod>2016-09-19T02:51:16.051Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2016/09/19/hello-world/</loc>
+    
+    <lastmod>2016-09-19T02:14:27.464Z</lastmod>
+    
+  </url>
+  
+</urlset>
