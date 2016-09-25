@@ -5,10 +5,10 @@
     
   <url>
     <loc>http://www.jimmychen.me/2016/09/23/Watchdog/</loc>
-    <lastmod>2016-09-25T09:49:11.184Z</lastmod>
+    <lastmod>2016-09-25T09:53:53.524Z</lastmod>
     <data>
         <display>
-        <title>Android Watchdog 安卓系统服务看门狗研究</title>
+        <title>Android Watchdog 安卓系统服务看门狗实现原理</title>
         <pubTime>2016-09-23T12:11:52.000Z</pubTime>
         
         <tag>Android</tag>
