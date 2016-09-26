@@ -4,8 +4,38 @@
 
     
   <url>
+    <loc>http://www.jimmychen.me/2016/09/22/AndroidModuleBuild/</loc>
+    <lastmod>2016-09-26T06:24:49.040Z</lastmod>
+    <data>
+        <display>
+        <title>Android Module Build 安卓单模块快速编译</title>
+        <pubTime>2016-09-22T11:27:47.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+        <tag>安卓</tag>
+         
+        <tag>Frameworks</tag>
+         
+        <tag>Build</tag>
+         
+        <tag>编译</tag>
+         
+        <tag>AOSP</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android frameworks" url="http://www.jimmychen.me/categories/Android-frameworks/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://www.jimmychen.me/2016/09/23/Watchdog/</loc>
-    <lastmod>2016-09-26T03:25:11.872Z</lastmod>
+    <lastmod>2016-09-26T06:23:39.260Z</lastmod>
     <data>
         <display>
         <title>Android Watchdog 安卓系统服务看门狗实现原理</title>
@@ -24,36 +54,6 @@
         <tag>Restart</tag>
          
         <tag>系统</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android frameworks" url="http://www.jimmychen.me/categories/Android-frameworks/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://www.jimmychen.me/2016/09/22/AndroidModuleBuild/</loc>
-    <lastmod>2016-09-23T14:32:25.520Z</lastmod>
-    <data>
-        <display>
-        <title>Android Module Build 安卓单模块快速编译</title>
-        <pubTime>2016-09-22T11:27:47.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-        <tag>安卓</tag>
-         
-        <tag>Frameworks</tag>
-         
-        <tag>Build</tag>
-         
-        <tag>编译</tag>
-         
-        <tag>AOSP</tag>
          
          
            
