@@ -13,6 +13,8 @@
         
         <tag>Android</tag>
          
+        <tag>安卓</tag>
+         
         <tag>Frameworks</tag>
          
         <tag>Watchdog</tag>
@@ -20,8 +22,6 @@
         <tag>reboot</tag>
          
         <tag>Restart</tag>
-         
-        <tag>安卓</tag>
          
         <tag>系统</tag>
          
@@ -45,9 +45,9 @@
         
         <tag>Android</tag>
          
-        <tag>Frameworks</tag>
-         
         <tag>安卓</tag>
+         
+        <tag>Frameworks</tag>
          
         <tag>Build</tag>
          
